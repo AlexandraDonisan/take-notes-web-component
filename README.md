@@ -35,3 +35,5 @@ npm start
 ```
 
 To run a local development server that serves the basic demo located in `demo/index.html`
+
+![Demo](https://github.com/AlexandraDonisan/take-notes-web-component/blob/main/demoHighlighter.gif)
