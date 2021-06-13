@@ -32,7 +32,7 @@ export class TakeNotes extends LitElement {
   addToNotes() {
     const note = this.getSelText()?.toString() || '';
     if (note) {
-      this.notesList.push('*' + note);
+      this.notesList.push(' * ' + note);
       this.requestUpdate();
     }
   }
